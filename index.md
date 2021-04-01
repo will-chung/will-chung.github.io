@@ -25,7 +25,7 @@ Click [here](assets/William%20Chung%20Resume.pdf).
 
 - [x] Live and learn 
 - [ ] Become a software engineer
-- [ ] Discover the end goal in life
+- [ ] Discover the end goal of life
 
 ### About Me
 
