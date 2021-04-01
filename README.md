@@ -1,5 +1,5 @@
 # William's User Page
 
-My GitHub user page.
+URL: [https://will-chung.github.io/](https://will-chung.github.io/).
 
 My favorite programming language currently is Java.
