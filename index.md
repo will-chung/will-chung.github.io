@@ -15,7 +15,7 @@
   - Email: billchung6@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/williamkchung/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I want to become a pilot
+- ⚡ Fun fact: I also want to become a pilot
 
 ### Resume
 
