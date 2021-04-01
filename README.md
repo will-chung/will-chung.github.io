@@ -1,2 +1,3 @@
-# will-chung.github.io
-My GitHub user site
+# William's User Page
+
+My GitHub user page
