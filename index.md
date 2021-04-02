@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on my studies at **UC San Diego** as a Computer Science major and Mathematics minor
+- 🔭 I’m currently working on my studies at [**UC San Diego**](https://ucsd.edu/) as a [Computer Science](https://cse.ucsd.edu/) major and [Mathematics](https://www.math.ucsd.edu/) minor
 - 🌱 I’m currently learning how to become a computer scientist
 - 👯 I’m looking to collaborate on any projects working to solve real-world problems 
 - 🤔 I’m looking for help to learn more, I believe everyone has something to teach me
