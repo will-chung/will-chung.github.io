@@ -29,7 +29,7 @@ Click [here](assets/William%20Chung%20Resume.pdf).
 
 ### About Me
 
-I decided to major in Computer Science because it is the field where I see the most opportunities and potential for me to make a difference. Considering the power and prevalence of computational applications today, the possibilities for beneficial change and advancement are truly limitless. I am minoring in Mathematics because, among other things, the critical-thinking skills it teaches me are invaluable (not to mention its close relation to computer science). I also find both subjects to be endlessly fascinating, and I want to one day apply the knowledge I am learning now, and which I will continue to learn, to be a computer scientist solving the problems of today and tomorrow. It is still very early on in my journey, however, so until that day comes, I will devote myself to doing my best to achieve it. 
+I decided to major in Computer Science because it is the field where I see the most opportunities and potential for me to make a difference. Considering the power and prevalence of computational applications today, the possibilities for beneficial change and advancement are truly limitless. I am minoring in Mathematics because, among other things, the critical-thinking skills it teaches me are invaluable (not to mention its close relation to computer science). I also find both subjects to be endlessly fascinating, and I want to one day apply the knowledge I am learning now, and which I will continue to learn, to be a computer scientist solving the problems of today and tomorrow. It is still very early on in my journey, however, so until that day comes, I will devote myself to simply doing my best. 
 
 In the words of Seneca: 
 
